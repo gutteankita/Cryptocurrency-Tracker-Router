@@ -1,0 +1,30 @@
+/* Write your CSS code here */
+
+.cryptocurrency-item-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 10px;
+}
+.logo-name {
+  display: flex;
+  align-items: center;
+}
+.logo {
+  height: 30px;
+}
+.name {
+  color: #ffffff;
+  font-size: 20px;
+  margin-left: 10px;
+}
+.coin-type {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 200px;
+}
+.value {
+  color: #ffffff;
+  font-size: 20px;
+}

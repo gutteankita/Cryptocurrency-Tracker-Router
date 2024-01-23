@@ -1,0 +1,14 @@
+/* Write your CSS here */
+
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.cryptocurrency-tracker-container {
+  background-color: #000000;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
